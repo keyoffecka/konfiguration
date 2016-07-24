@@ -1,0 +1,11 @@
+a {
+  b {
+    c: true
+    c1: false
+    c2: null
+  }
+  b1: 89.9
+  b2: text
+  b3: "text text"
+  l: [{a: 1, b:[1, {a: 9}]}, {a: 2}]
+}
